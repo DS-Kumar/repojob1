@@ -1,4 +1,6 @@
 #!/bin/bash
-cal
-date
-cat /etc/group
+whoami
+w
+last
+lastb
+
