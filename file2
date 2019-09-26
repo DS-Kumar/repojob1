@@ -1,6 +1,5 @@
 #!/bin/bash
 whoami
-w
-last
-lastb
+uptime
+date
 
